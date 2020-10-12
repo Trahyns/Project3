@@ -15,6 +15,6 @@ export default class TodoItem extends Component {
                     </span>
                 </div>
             </li>
-        )
+        );
     }
 }
